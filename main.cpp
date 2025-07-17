@@ -1,2 +1,8 @@
-int x;
-int y;
+
+
+void main(){
+	int x;
+	int y;
+	
+	
+}
