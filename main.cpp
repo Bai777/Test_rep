@@ -6,6 +6,7 @@ void main(){
 	String s;
 	
 	int z = x - y;
+	int d = x**;
 	
 
 	printf(z--);
