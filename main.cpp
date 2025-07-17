@@ -1,11 +1,15 @@
 
 void main(){
+	boolean al;
 	int x;
 	int y;
 	String s;
 	
-	int z = x + y;
+	int z = x - y;
 	
+
 	printf(z--);
+	printf(al);
+	
 
 }
