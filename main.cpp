@@ -9,7 +9,7 @@ void main(){
 	int d = x**;
 	
 
-	printf(z--);
+	printf(z++);
 	printf(al);
 	
 
