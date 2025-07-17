@@ -6,6 +6,6 @@ void main(){
 	
 	int z = x + y;
 	
-	printf(z);
+	printf(z--);
 
 }
