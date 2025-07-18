@@ -7,7 +7,7 @@ void main(){
 	
 	int z = x - y;
 	int d = x**;
-	
+	printf(d);
 
 	printf(z++);
 	printf(al);
